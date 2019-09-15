@@ -37,17 +37,24 @@ MAIL_ENCRYPTION=tls
 
 <br>
 Generar la llave de encriptación de la aplicación
+<br>
 php artisan key:generate
 
+<br>
 por útimo ubicado en el directorio de la aplicación abrir una terminal y ejecutar el comando:
+
+<br>
 
 php artisan serve
 
-abrir en un navegador la dirección indicada http://127.0.0.1:8000
+<br>
 
+abrir en un navegador la dirección indicada http://127.0.0.1:8000
+<br>
 
 En la base ya existen 2 usuarios de prueba uno administrador con email y contraseña admin@test.com   12345678 respectivamente y otro con permisos de operador con usuario diegodelias@gmail.com y contraseña 12345678.  Cualquiera de los 2 pueden usarse para realizar pruebas.
 
+<br>
 
 
 mas info sobre el proceso a realizar: https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
