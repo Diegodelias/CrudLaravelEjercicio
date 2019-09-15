@@ -34,6 +34,8 @@ MAIL_PORT=587
 MAIL_USERNAME=laravelpracticakaizen@gmail.com
 MAIL_PASSWORD=nforkiqhstbystjy
 MAIL_ENCRYPTION=tls
+
+<br>
 Generar la llave de encriptación de la aplicación
 php artisan key:generate
 
