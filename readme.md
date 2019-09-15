@@ -9,9 +9,11 @@ https://nodejs.org/es/
 opcional tener instalado git bash en windows
 https://gitforwindows.org/
 
--En la carpeta htdocs del directorio correspondiente a la instalación de xampp  crear una carpeta llamada Ejercicio. Clonar el proyecto abriendo una terminal en la carpeta del proyecto y ejecutando  git clone https://github.com/Diegodelias/CrudLaravelEjercicio.git
-- Con  el  Xampp corriendo Apache y mysql ingresar a phpmyadmin y crear una nueva base de datos llamada ejercicio
--importar el archivo ejercicio.sql  ubicado en la carpeta basedatos del proyecto a la  base de datos. También se puede  descargar de acá https://drive.google.com/drive/folders/1_xPB_f8J7nuAEpxkJtskHFSbny3lKIDm	
+En la carpeta htdocs del directorio correspondiente a la instalación de xampp  crear una carpeta llamada Ejercicio. Clonar el proyecto abriendo una terminal en la carpeta del proyecto y ejecutando  git clone https://github.com/Diegodelias/CrudLaravelEjercicio.git
+<br>
+Con  el  Xampp corriendo Apache y mysql ingresar a phpmyadmin y crear una nueva base de datos llamada ejercicio
+importar el archivo ejercicio.sql  ubicado en la carpeta basedatos del proyecto a la  base de datos. También se puede  descargar de acá https://drive.google.com/drive/folders/1_xPB_f8J7nuAEpxkJtskHFSbny3lKIDm	
+<br>
 
 Instalar dependencias de composer. Abrir una  terminal en el directorio de la aplicación y ejecutar el comando 
 composer install
