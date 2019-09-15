@@ -23,19 +23,30 @@ Instalar dependencias de NPM. Abrir una  terminal en el directorio de la aplicac
 npm install
 
 Hacer una copia del archivo ‘.env.example’ y modificar su nombre a ‘.env’. Abrirlo y editar los valores que se muestran a continuación. La parte del servidor de correo  no es necesaria ya que no está funcionando.
+<br>
 DB_CONNECTION=mysql
+<br>
 DB_HOST=127.0.0.1
+<br>
 DB_PORT=3306
+<br>
 DB_DATABASE=ejercicio
+<br>
 DB_USERNAME=root
+<br>
 DB_PASSWORD=null
-
+<br>
 
 MAIL_DRIVER=smtp
+<br>
 MAIL_HOST=smtp.gmail.com
+<br>
 MAIL_PORT=587
+<br>
 MAIL_USERNAME=laravelpracticakaizen@gmail.com
+<br>
 MAIL_PASSWORD=nforkiqhstbystjy
+<br>
 MAIL_ENCRYPTION=tls
 
 <br>
